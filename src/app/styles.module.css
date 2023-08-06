@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+}
+
+
+.orange{
+    color: orange;
+}
+
+.ul{
+    display: flex;
+    gap: 5px;
+}
