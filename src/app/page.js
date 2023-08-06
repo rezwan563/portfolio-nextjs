@@ -168,7 +168,7 @@ export default function Home() {
       </section>
       <footer className="footer">
         <div>
-          <p>Let's Connect</p>
+          <p>Let&apos; Connect</p>
           <p>
             Please fill out the form on this section to contact with me or call
             between 0.00 A.M and 8.00 P.M Monday through Friday.
